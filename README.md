@@ -1,24 +1,5 @@
-# README
+# Example of using git branch databases
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Added `gem 'git' to `Gemfile`
+2. Using ERB added functionality to grab the git branch name and append to the database in `database.yml`
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
